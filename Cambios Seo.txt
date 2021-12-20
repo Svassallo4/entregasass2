@@ -1,0 +1,3 @@
+-Se le agrego el determinadi SEO a todas las paginas de la web por separado, desarrollando en cada una la correcta aplicacion de las keywords y la descripcion.
+-Cambios con SASS, se agrego mixin para el sidebar y extend para los widgets.
+Se subio todo al determinado repositorio de github.

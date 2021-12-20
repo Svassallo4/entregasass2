@@ -1,0 +1,16 @@
+{
+  "name": "proyectofinal-todaslaspags",
+  "version": "1.0.0",
+  "description": "Pre entrega final Pafinas funcionales: index y contacto. # PaginaDeJuegos-Vassallo Aplique bootstrap en el header y en el footer creando la nav y el icono para responsive. https://svassallo4.github.io/PaginaDeJuegosBotstrap-Vassallo/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss sass/main.scss styles/estilos.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
